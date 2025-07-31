@@ -16,7 +16,7 @@ export default function Example() {
             </div>
             <div className="border-t border-slate-200">
                 <div className="max-w-7xl mx-auto px-6 py-6 text-center text-sm font-normal">
-                    <a href="">Quick.AI</a> ©2025. All rights reserved.
+                    <a href="https://github.com/richochetclementine1315/ToolBox">Quick.Ai</a> ©2025. All rights reserved.
                 </div>
             </div>
         </footer>
